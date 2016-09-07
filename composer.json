@@ -1,0 +1,9 @@
+{
+   "name": "lavoweb/magento-1-fr-translation",
+   "type": "magento-module",
+   "description": "Magento 1 french translation",
+   "homepage": "https://github.com/LavoWeb/magento-1-fr-translation",
+   "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}
